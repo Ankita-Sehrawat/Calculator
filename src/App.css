@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(103, 125, 150) !important;
+}
+
+.box {
+  width: 550px;
+  /* height: 400px; */
+  padding: 20px;
+  background-color: black !important;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+input {
+  width: 100%;
+  padding: 20px;
+}
+
+.fs {
+  font-size: 30px;
+}
+
+button {
+  background-color: white !important;
+  padding: 20px 40px!important;
+  /* border-radius: 50% !important; */
+  border: none !important;
+  font-size: 25px !important;
+  font-weight: 800 ;
+}
